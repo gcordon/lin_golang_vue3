@@ -1,0 +1,17 @@
+app:
+  # 应用名称
+  name: CurrentcyExchange
+  # 应用端口
+  port: 3000
+
+database:
+  # 数据库地址
+  host: localhost
+  # 数据库端口
+  port: 3306
+  # 数据库用户名
+  user: root
+  # 数据库密码
+  password: root
+  # 数据库名称
+  name: currency_exchange_db
